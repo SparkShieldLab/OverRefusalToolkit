@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+artifacts/
+build/
+dist/
+.coverage
+htmlcov/
+
+# Local source deliveries and backups
+/0910version/
+/new_version/
+/old_version/
+.DS_Store

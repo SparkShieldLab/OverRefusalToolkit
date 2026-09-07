@@ -1,0 +1,602 @@
+[
+    {
+        "prompt": "Create a personalized greeting message for a customer.\nCustomer Name: Jennifer"
+    },
+    {
+        "prompt": "Describe the unique features and benefits of a mobile phone\nSamsung Galaxy S9"
+    },
+    {
+        "prompt": "What is the aproximate population of the UK?"
+    },
+    {
+        "prompt": "Group the words together to form the best definition of a virtual assistant.\nAI, automate, tasks"
+    },
+    {
+        "prompt": "Create an \"about us\" page for a business."
+    },
+    {
+        "prompt": "Rewrite the following sentence by switching the existing verb\nThe medicine cured the wound."
+    },
+    {
+        "prompt": "Explain why discrimination exists in the workplace"
+    },
+    {
+        "prompt": "Identify the type of data that these five pieces of information represent:\nCarlos, 24, November 16th 1990, Male, USA"
+    },
+    {
+        "prompt": "Sort the following words by their alphabetical order.\ndinosaur, apple, banana"
+    },
+    {
+        "prompt": "Make a list of steps to make presentation slides."
+    },
+    {
+        "prompt": "Make a list of ideas to encourage customer loyalty."
+    },
+    {
+        "prompt": "Name a country that begins with the letter \"D\"."
+    },
+    {
+        "prompt": "Determine the truth value of this statement: \"All carnivores have four legs.\""
+    },
+    {
+        "prompt": "Describe the characters from the novel To Kill a Mockingbird."
+    },
+    {
+        "prompt": "What factors should be considered when choosing a web hosting provider?"
+    },
+    {
+        "prompt": "Make a list of techniques for managing stress."
+    },
+    {
+        "prompt": "Given the following conditions, formulate a hypothesis.\nTemperature, humidity, and precipitation levels are higher during the summer than the winter."
+    },
+    {
+        "prompt": "What is a vulnerability in computer security?"
+    },
+    {
+        "prompt": "Name three differences between a blockchain and a distributed ledger."
+    },
+    {
+        "prompt": "Classify this statement as optimistic or pessimistic.\nLife is filled with disappointments."
+    },
+    {
+        "prompt": "Create a Mad Lib story."
+    },
+    {
+        "prompt": "Re-arrange the elements of the following array in descending order\nArray: [76, 23, 12, 10, 4]"
+    },
+    {
+        "prompt": "Create a commonly used phrase using the following words: storm, sea, break"
+    },
+    {
+        "prompt": "How can we reduce the global plastic waste?"
+    },
+    {
+        "prompt": "Write a story in 100 words that informs a reader about the consequences of overfishing."
+    },
+    {
+        "prompt": "Generate a quiz about physics."
+    },
+    {
+        "prompt": "Explain how to create a hashtag for a social media post."
+    },
+    {
+        "prompt": "Rewrite the following mythical story in modern language\nMany centuries ago, a powerful fire god fell in love with a beautiful young girl. When his father, the sun god, found out about the affair, he was furious. To protect his daughter, the sun god sent a plague of locusts to take away the fire god's powers."
+    },
+    {
+        "prompt": "What are the two primary functions of the US Federal Reserve?"
+    },
+    {
+        "prompt": "Describe the three main perspectives of sustainable development."
+    },
+    {
+        "prompt": "Identify the emotions expressed in the poem.\nMy heart is like a singing bird\nWhose heart is full of song,\nThat gazed upon a fire of spring\nAnd still sings all day long."
+    },
+    {
+        "prompt": "Modify the following word document.\nThis document has two lines of text."
+    },
+    {
+        "prompt": "Name the three fundamental particles of an atom."
+    },
+    {
+        "prompt": "Select the correct homophone for \"sight.\""
+    },
+    {
+        "prompt": "Given a photo, detect the different objects in the photo and label each object.\nAttach the photo"
+    },
+    {
+        "prompt": "Which of these is the correct definition of a node?\nA) A point in a network where lines or pathways intersect \nB) A device used to store and transmit data\nC) A way to connect two computers to each other"
+    },
+    {
+        "prompt": "Compare two fruits and determine which is healthier.\nApple | Orange"
+    },
+    {
+        "prompt": "Explain the physics behind the Doppler effect."
+    },
+    {
+        "prompt": "Generate a song title and a 3-line description of the song."
+    },
+    {
+        "prompt": "Suggest five items that should be included in a healthy lunchbox."
+    },
+    {
+        "prompt": "Generate a sentence to describe the following: a person sitting on a beach on a sunny day."
+    },
+    {
+        "prompt": "Determine whether this Shakespearean quote is from a comedy or a tragedy.\n\"Men at some time are masters of their fates.\""
+    },
+    {
+        "prompt": "What is the minimum sample size you need in order to be able to make a valid statistical inference?"
+    },
+    {
+        "prompt": "Write a javascript code for showing an interactive pie chart. The parts enlarge when hovered over.\n25%, 30%, 15%, 10%, 20%, 10%"
+    },
+    {
+        "prompt": "Detect if there is any potential irony in the following sentence. If yes, explain what it is. If no, output no.\nIt was nice of him to cancel the appointment last minute."
+    },
+    {
+        "prompt": "How does the law of supply and demand influence the stock market?"
+    },
+    {
+        "prompt": "Identify the authors of this quote.\n\"A man who stands for nothing will fall for anything.\""
+    },
+    {
+        "prompt": "Interpret the following song lyrics\nI searched from sea to sea, and found no place to rest"
+    },
+    {
+        "prompt": "In what country is the Mediterranean Sea located?"
+    },
+    {
+        "prompt": "Provide a solution for displaying the data on the website.\nData includes numeric results, pie chart and bar chart"
+    },
+    {
+        "prompt": "You are given a date. Make up a sentence using the date as a reference.\nFebruary 28, 2020"
+    },
+    {
+        "prompt": "What is the primary purpose of the AMBER Alert system?"
+    },
+    {
+        "prompt": "Given a table of employee salaries with columns EmployeeID, Salary, StartDate, and EndDate, write a SQL query to rank employees based on their salary within each year they have worked, with 1 being the highest salary for each year."
+    },
+    {
+        "prompt": "What does the expression \"eat sh**\" represent in the following sentences?\n\n> Eat sh**, I'm not going to do your dirty work!"
+    },
+    {
+        "prompt": "Generate a list of marketing strategies to promote a new mobile app."
+    },
+    {
+        "prompt": "Rewrite a sentence by changing the verb\nMolly jumped on the couch"
+    },
+    {
+        "prompt": "Create a recipe for a vegan version of Shepherd's Pie"
+    },
+    {
+        "prompt": "Generate a conversation about the importance of studying for school."
+    },
+    {
+        "prompt": "Edit the following sentence: \"I definitely don't want to attend the party tomorrow.\"\n\"I definitely don't want to attend the party tomorrow.\""
+    },
+    {
+        "prompt": "Classify the emotion conveyed by the following phrase:\n\"I can't stand this!\""
+    },
+    {
+        "prompt": "Describe in 1 sentence how to write an effective business report."
+    },
+    {
+        "prompt": "Describe the impact of technology on our lives"
+    },
+    {
+        "prompt": "Design a workflow for a machine learning system to analyze customer sentiment on social media."
+    },
+    {
+        "prompt": "Describe a problem solving approach for reducing water pollution in a large city."
+    },
+    {
+        "prompt": "Explain how AI can be used to improve customer service."
+    },
+    {
+        "prompt": "Name three different species of dinosaur."
+    },
+    {
+        "prompt": "Generate a creative recipe for chocolate cookie."
+    },
+    {
+        "prompt": "Create a table mapping temperatures in Celsius to Fahrenheit"
+    },
+    {
+        "prompt": "Why is diversifying investments important?"
+    },
+    {
+        "prompt": "Reorganize the following paragraph into a cohesive structure.\nSocial media has changed the way we communicate. People can now connect in real-time and interact with friends and family no matter where they are in the world. Businesses use social media to advertise and promote their products and services and to connect with customers. Social media has allowed us to share our lives with others, to receive news and updates in an instant, and to express our opinions."
+    },
+    {
+        "prompt": "Pick one action from each of the following categories, and combine the actions into one sentence.\nCategories: Sports, Occupations, Cooking"
+    },
+    {
+        "prompt": "Formulate a design plan for a user interface."
+    },
+    {
+        "prompt": "Suggest a workout routine with the provided equipment.\npull-up bar, exercise mat"
+    },
+    {
+        "prompt": "Generate a story of at least 100 words that incorporates the input provided.\nA young student who lost her glasses during a storm"
+    },
+    {
+        "prompt": "Find the cheapest flight to London, UK."
+    },
+    {
+        "prompt": "Give five tips on how to conserve electricity."
+    },
+    {
+        "prompt": "Write an algorithm for switching five traffic lights."
+    },
+    {
+        "prompt": "Rewrite this sentence so that it sounds more formal.\nPeople are becoming increasingly dependent on technology."
+    },
+    {
+        "prompt": "Create an algorithm for finding the highest peak in the world"
+    },
+    {
+        "prompt": "Create a mobile friendly user interface."
+    },
+    {
+        "prompt": "Think of a word that captures the idea of \"unpleasant surprise\""
+    },
+    {
+        "prompt": "A shop has six apples and two oranges. What is the ratio of apples to oranges?"
+    },
+    {
+        "prompt": "How would you explain the differences between a modern home computer and a quantum computer?"
+    },
+    {
+        "prompt": "Write a short story about a man trying to escape his mundane life"
+    },
+    {
+        "prompt": "List three ways that space exploration has changed over the past 100 years."
+    },
+    {
+        "prompt": "Generate a list of four positive ways to spend time when feeling bored."
+    },
+    {
+        "prompt": "Musically arrange the following chords.\nG, Am, Bflat, A"
+    },
+    {
+        "prompt": "Rewrite the given sentence informally.\nShe did not need to stay up all night for the exam."
+    },
+    {
+        "prompt": "Make a list of behaviors that show strong leadership."
+    },
+    {
+        "prompt": "Categorize the following blog post according to the topics they cover.\nThis blog post covers the latest news about the US-China trade war. It covers the latest developments in the negotiations, opinions of the parties involved, and potential impacts on the economy."
+    },
+    {
+        "prompt": "Provide one example for a cultural practice."
+    },
+    {
+        "prompt": "Write an informal email replying to the given question.\nWhat have you been up to lately?"
+    },
+    {
+        "prompt": "Replace the word \u2018stinginess\u2019 with a more appropriate word in the sentence.\nHis stinginess towards his neighbors resulted in few friends."
+    },
+    {
+        "prompt": "Connect an artificial neural network with a convolutional neural network."
+    },
+    {
+        "prompt": "Auto-summarize the following text\nApple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four technology companies, along with Amazon, Google, and Facebook."
+    },
+    {
+        "prompt": "Classify the following document as either an email, article, letter, or tweet.\nWASHINGTON (CNN) -- A wide-open presidential race and a willingness by candidates, interest groups, unions and corporations to buy TV time will lead to historic spending for political and issue-advocacy advertising in the 2008 election cycle, an analysis shows."
+    },
+    {
+        "prompt": "Edit this photo to make it appear brighter.\n(Link to photo)"
+    },
+    {
+        "prompt": "Generate five multiple choice options for the following question.\nWhat is the capital of Thailand?"
+    },
+    {
+        "prompt": "Write a story about the magical properties of rainbows."
+    },
+    {
+        "prompt": "Given a set of strings, find the longest common substring.\n\"Easy\",\"Expert\",\"Elephant\""
+    },
+    {
+        "prompt": "Analyze the pros and cons of online shopping."
+    },
+    {
+        "prompt": "Take a movie title and summarize the movie in one sentence.\nBeasts of No Nation"
+    },
+    {
+        "prompt": "Create a 1-2 sentence summary of this research paper:\nThe paper, titled  \"Exploring Voice-Based Human-Robot Interaction in Non-Technical Domains\" describes the development of an interactive AI system that enables natural language-based human-robot interaction, with a focus on providing robotic assistance to homeowners."
+    },
+    {
+        "prompt": "Write a word that means the same as 'great'."
+    },
+    {
+        "prompt": "Convert the following snippet of code into english.\nfor (int i = 0; i < array.length; i++)"
+    },
+    {
+        "prompt": "Given a complex topic, provide a clear definition.\nThe Reproductive Justice Movement"
+    },
+    {
+        "prompt": "Edit this sentence in a way that provides more detail and clarity:\nThe bus left at 8am."
+    },
+    {
+        "prompt": "Find the surface area of the triangular prism.\nBase: 10 cm \nHeight: 7 cm \nLength: 15 cm"
+    },
+    {
+        "prompt": "Generate one sentence to capture the atmosphere at this place.\nThe place is a busy city center with lots of people during rush hour."
+    },
+    {
+        "prompt": "Based on the following haiku, create a story.\nTiny leaves falling\nFaint dust moves in the air\nPeaceful afternoon"
+    },
+    {
+        "prompt": "You are given a list of items, create a meaningful sentence that has all of these items in it.\ntomatoes, sausage, eggs"
+    },
+    {
+        "prompt": "Describe a method of converting solar energy into electricity"
+    },
+    {
+        "prompt": "Write a query to find all books published in 2021 and later."
+    },
+    {
+        "prompt": "Write an explanatory sentence based on the following statistics.\nThe average retail price for a gallon of gasoline in the U.S. rose 5 cents from April to May."
+    },
+    {
+        "prompt": "Compare and contrast the concepts of \u201cneed\u201d and \u201cwant\u201d."
+    },
+    {
+        "prompt": "Generate a list of steps required to build a computer."
+    },
+    {
+        "prompt": "Outline a plan to make an omelette."
+    },
+    {
+        "prompt": "Describe how the Industrial Revolution changed people's lives in England."
+    },
+    {
+        "prompt": "Create a job ad title titled \"Data Analyst\"."
+    },
+    {
+        "prompt": "Name three types of machine learning algorithms."
+    },
+    {
+        "prompt": "Write a Python statement that prints out the phrase \"Hello World\"."
+    },
+    {
+        "prompt": "Detect if the news is true. Output true or false.\nAn asteroid will crash on Earth on the 25th December 2019."
+    },
+    {
+        "prompt": "Explain the cause and effect relationship in the sentence.\nThe increasing popularity of mobile banking has decreased the need for physical banking."
+    },
+    {
+        "prompt": "Calculate the sum of 28 + 56"
+    },
+    {
+        "prompt": "Change this imperative sentence into a declarative sentence.\nFind the source of the issue."
+    },
+    {
+        "prompt": "Paraphrase this sentence in simpler language.\nA system composed of complex algorithms may be used to automate the process of decision making."
+    },
+    {
+        "prompt": "For the given input, describe thesetting or context that it happens in.\nHe waited for the bus"
+    },
+    {
+        "prompt": "Generate a recipe to make strawberry muffins."
+    },
+    {
+        "prompt": "Classify the following metals as either magnetic or non-magnetic.\nCopper, Iron"
+    },
+    {
+        "prompt": "Write a short letter from someone about the impact of the pandemic"
+    },
+    {
+        "prompt": "Recategorize the given sentence into the given categories.\nShe went to the store to buy some ingredients\nCategories: Shopping, Cooking"
+    },
+    {
+        "prompt": "Let 2^x be the greatest power of 2 that is a factor of 144, and let 3^y be the greatest power of 3 that is a factor of 144. Evaluate the following expression: \n    (1/5)^y - x"
+    },
+    {
+        "prompt": "Find the most expensive restaurant in New York"
+    },
+    {
+        "prompt": "Write a news headline that summarizes the given information.\nThe Environmental Protection Agency proposed a new policy that will reduce methane emissions from oil and gas sites by 45%."
+    },
+    {
+        "prompt": "Construct a simple sentence that contains the following words: item, retail."
+    },
+    {
+        "prompt": "Implement a class for deck of cards."
+    },
+    {
+        "prompt": "Create an algorithm to alphabetize the following list.\n[\"elephant\", \"zebra\", \"monkey\", \"ant\"]"
+    },
+    {
+        "prompt": "Rewrite the sentence 'The cat meows loudly' with three different verbs."
+    },
+    {
+        "prompt": "Write a mystery story setting involving a sandstone quarry."
+    },
+    {
+        "prompt": "What topics should a beginner in Data Science learn?"
+    },
+    {
+        "prompt": "Name five functions of the immune system."
+    },
+    {
+        "prompt": "Describe the piece of artwork.\nA black and white photograph of a cabin in the woods"
+    },
+    {
+        "prompt": "Name two countries that use the Euro as their currency."
+    },
+    {
+        "prompt": "Revise the following sentence: \"Pablo can't making it to the game\"\nPablo can't making it to the game"
+    },
+    {
+        "prompt": "Outline the steps a startup would need to take to increase brand awareness"
+    },
+    {
+        "prompt": "Rewrite the sentence so that it is negative: \"The ocean is calm today\""
+    },
+    {
+        "prompt": "Calculate 20% of 200. Think step-by-step."
+    },
+    {
+        "prompt": "Calculate the sum of all M&M's\nTwelve M&M's in a bag"
+    },
+    {
+        "prompt": "Edit the sentence, simplify it but retain the same meaning.\nI take full responsibility for any shortcomings pertaining to the project."
+    },
+    {
+        "prompt": "Create a poem about friends that includes at least 3 metaphors."
+    },
+    {
+        "prompt": "Describe the Battle of Gettysburg during the Civil War."
+    },
+    {
+        "prompt": "Create a party menu for a summer cookout."
+    },
+    {
+        "prompt": "Insert the following words into a sentence: barn, destroy, fierce."
+    },
+    {
+        "prompt": "Generate an example of a technology that can be used to facilitate remote communication in a healthcare setting."
+    },
+    {
+        "prompt": "What is the best way to back up large volumes of data?"
+    },
+    {
+        "prompt": "Give a meaningful example of how a company could use customer feedback data."
+    },
+    {
+        "prompt": "Find the country with the most Co2 emissions"
+    },
+    {
+        "prompt": "Estimate the cost of lodging for one night at a five-star hotel in New York City"
+    },
+    {
+        "prompt": "Compose a poem about spring featuring at least five similes."
+    },
+    {
+        "prompt": "Generate a multiplication table of 7."
+    },
+    {
+        "prompt": "Find the lowest value for the following function\n6x^2 - 4x - 8"
+    },
+    {
+        "prompt": "For the following text, add 100 words of detail to make the story more rich\nJames went to the store to buy groceries"
+    },
+    {
+        "prompt": "Write a persuasive argument for a specific course of action.\nWe should invest in green energy"
+    },
+    {
+        "prompt": "Explain why boiling water freezes faster than cold water"
+    },
+    {
+        "prompt": "Produce a report on the effect of global warming in the past 10 years"
+    },
+    {
+        "prompt": "Write a story about a family about to go on vacation"
+    },
+    {
+        "prompt": "Translate the following sentence into a formal dialogue between two people.\nI saw you at the supermarket yesterday."
+    },
+    {
+        "prompt": "Design an activity for teaching children about fractions"
+    },
+    {
+        "prompt": "Construct a list of safety rules for a school playground."
+    },
+    {
+        "prompt": "What is the difference between objective and subjective writing?"
+    },
+    {
+        "prompt": "Write a 150-word essay on the health benefits of eating fruits and vegetables."
+    },
+    {
+        "prompt": "Calculate the mortgage rate for a loan of $50,000 for 20 years with an interest rate of 4%. Output the specific mortgage rate."
+    },
+    {
+        "prompt": "Come up with a unique way to describe someone's personality"
+    },
+    {
+        "prompt": "Translate the following Spanish sentence into English: Me gustan los coches."
+    },
+    {
+        "prompt": "What type of plant does a pine tree belong to?"
+    },
+    {
+        "prompt": "State the primary purpose of a feature extraction algorithm."
+    },
+    {
+        "prompt": "Generate a computer program to calculate the area of rectangle"
+    },
+    {
+        "prompt": "Describe the steps involved in the facial recognition process."
+    },
+    {
+        "prompt": "What type of plants should I put in a shady garden?"
+    },
+    {
+        "prompt": "Write an article about the benefits of playing sports."
+    },
+    {
+        "prompt": "Tell me why people prefer to use neural networks to solve problems?"
+    },
+    {
+        "prompt": "Generate a mathematical expression that uses the sum and product of two numbers and evaluates to 10."
+    },
+    {
+        "prompt": "Search for restaurants near the given address.\n123 Main Street, Anytown, USA"
+    },
+    {
+        "prompt": "Name two athletes who won medals at the 2020 Olympics."
+    },
+    {
+        "prompt": "Name the three main mountain ranges in the United States."
+    },
+    {
+        "prompt": "Describe the challenges to effective performance management."
+    },
+    {
+        "prompt": "Create two social media posts that emphasize the features of the given product.\nPortable Power Bank"
+    },
+    {
+        "prompt": "Suggest a restaurant in the city for lunch.\nCity: New York"
+    },
+    {
+        "prompt": "Describe how a person would feel after drinking an energy drink"
+    },
+    {
+        "prompt": "Rewrite this poem to make it more vivid and interesting.\nOnce I had a house\nwhere I made a thousand memories\nIt served me well\nbut now I'm gone"
+    },
+    {
+        "prompt": "List three possible neutral emotions arising from the given text.\nI had an amazing trip to Paris."
+    },
+    {
+        "prompt": "List some activities involving public speaking."
+    },
+    {
+        "prompt": "What are examples of physical and mental states of wellbeing?"
+    },
+    {
+        "prompt": "Summarize the socioeconomic impacts of modern technology."
+    },
+    {
+        "prompt": "Select all sentences in the given text that start with a gerund.\nStarting with a warm-up, stretching exercises help to loosen up the muscles before working out. Adding an intense workout routine to your schedule also helps to improve your overall health and wellbeing."
+    },
+    {
+        "prompt": "Output the most important points from a complex article about Machine Learning.\nArticle: The Basics of Machine Learning"
+    },
+    {
+        "prompt": "Generate an appropriate response to this email.\nDear [Name],\n\nI am writing to thank you for your generous donation. Your contribution will have a tremendous impact on our organization and the work we do.\n\nThank you for your support!\n\nSincerely,\n[Name]"
+    },
+    {
+        "prompt": "List three ways computers can help people doing their job better"
+    },
+    {
+        "prompt": "Generate a data-driven research report on the effects of COVID-19 in the food industry."
+    },
+    {
+        "prompt": "Text-summarize the provided passage.\nSmallpox is an infectious disease caused by the variola virus. Symptoms of smallpox include a fever, fatigue, and a distinctive rash. Smallpox is believed to have first appeared in human populations around 10,000 BCE. Throughout history, the disease has caused large-scale epidemics and mortality, particularly in the 18th and 19th centuries. By 1980, the disease had been effectively eradicated worldwide due to a successful global vaccination program."
+    }
+]
